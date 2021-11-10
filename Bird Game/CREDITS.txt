@@ -1,0 +1,7 @@
+Sprite1: https://www.pinclipart.com/downpngs/hhJmJo_flying-bird-clipart-bird-png-flappy-bird-birds/
+
+Sprite2: https://www.pngaaa.com/detail/1318915
+
+Audio1: https://orangefreesounds.com/mario-coin-sound/#google_vignette
+
+Audio2: https://www.myinstants.com/instant/super-mario-death-23969/#google_vignette

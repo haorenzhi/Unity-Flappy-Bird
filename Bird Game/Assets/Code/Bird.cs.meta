@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 069035295be93e44a81d655352b288a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoresound: {fileID: 8300000, guid: 37e2f64e144afce4f881fb807c16f043, type: 3}
+  - deadsound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
