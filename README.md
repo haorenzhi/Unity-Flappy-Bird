@@ -1,6 +1,5 @@
 # Unity-Bird-Game
-o What all the objects on screen are 
-
+#o What all the objects on screen are 
 	There is a cute yellow flying bird waving wings and annoying endlessly random generated green pipes. 
 
 o What their behavior is supposed to be 
