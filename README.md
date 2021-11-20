@@ -1,11 +1,9 @@
 # Unity-Bird-Game
 o What all the objects on screen are 
-	
-	There is a cute yellow flying bird waving wings and annoying endlessly random generated green pipes. 
+There is a cute yellow flying bird waving wings and annoying endlessly random generated green pipes. 
 
 o What their behavior is supposed to be 
-	
-	The bird is supposed to fall to the ground without player's control as well as move from left to right at a constant speed.
+The bird is supposed to fall to the ground without player's control as well as move from left to right at a constant speed.
 
 o What the player's controls are 
 	
